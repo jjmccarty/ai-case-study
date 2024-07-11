@@ -1,40 +1,43 @@
-# TITLE
+# SMU AI Bootcamp Case Study
 
-## Overview and Origin
+## Overview and Origin for Anthropic
 
-* Name of company
-Anthropic
+* The following AI case study outlines Anthropic
 
-* When was the company incorporated?
+### Anthropic founding and mission statements
+
+
+* Anthropic was founded and incorporated in
 2021
 
-* Who are the founders of the company?
-Dario Amodei - former VP of research at OpenAI
-Daniela Amodei - former VP of saftey and policy
-several other OpenAI employees
+* Anthropic was founded by several former OpenAI executives and employees with notable members including [^1]:
+1. Dario Amodei - Co-founder and CEO
+2. Daniela Amodei - Co-Founder and President 
+3. Jason Clinton - CISO
+4. Jared Kaplan - Co-Founder and Chief Science Officer
+5. Ben Mann - Co-Founder, Technical Staff
+6. Jack Clark - Co-Founder, Head of Policy
+7. Mike Krieger - Chief Product Office
+8. Jan Leike - former OpenAI alignment researcher
 
-Key EMployees
-Dario Amodei: Co-Founder and Chief Executive Officer[9]
-Daniela Amodei: Co-Founder and President[9]
-Jason Clinton: Chief Information Security Officer[20]
-Jared Kaplan: Co-Founder and Chief Science Officer[1]
-Ben Mann: Co-Founder and Member of Technical Staff[3]
-Jack Clark: Co-Founder and Head of Policy[21][22]
-Mike Krieger: Chief Product Officer[23][24]
-Jan Leike: ex-OpenAI alignment researcher[25]
 
-Board of Directors
-Dario Amodei: Chief Executive Officer[26]
-Daniela Amodei: representative of common shareholders[26]
-Luke Muehlhauser: representative of Series A shareholders[26][3]
-Yasmin Razavi: representative of Series C shareholders[26][27]
+* Anthropic's current Board of Directors includes:
+1. Dario Amodei
+2. Daniela Amodei
+3. Luke Muehlhauser
+4. Yasmin Razavi
 
-Info from:
-https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m#close-modal
+* Anthropic was founded as a result of directional differences between Anthropics founders (Dario and Daniel Amodei) and OpenAI leadership.   
 
-* How did the idea for the company (or project) come about?
+Anthropic provides a very clear mission statiement [^2]:
 
-“Anthropic’s goal is to make the fundamental research advances that will let us build more capable, general, and reliable AI systems, then deploy these systems in a way that benefits people,” Dario Amodei said.
+>Anthropic exists for our mission: to ensure transformative AI helps people and society flourish. Progress this decade may be rapid, and we expect increasingly capable systems to pose novel challenges. We pursue our mission by building frontier systems, studying their behaviors, working to responsibly deploy them, and regularly sharing our safety insights. We collaborate with other projects and stakeholders seeking a similar outcome.
+
+In recent interviews with [AI Businesss](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m) regarding the startup Dario Amodei stated [^3]:
+
+>“Anthropic’s goal is to make the fundamental research advances that will let us build more capable, general, and reliable AI systems, then deploy these systems in a way that benefits people,” 
+
+### Anthropic Funding
 
 * How is the company funded? How much funding have they received?
 
@@ -131,3 +134,11 @@ https://time.com/6983420/anthropic-structure-openai-incentives/
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+### Footnotes and citations
+
+1. [^1]: [Open AI Employees Establish Anthropic](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m#close-modal)
+
+2. [^2]: [Anthropic Mission Statement](https://www.anthropic.com/company)
+
+3. [^3]: [Anthropic CEO quote on purpose of Anthropic](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m)
