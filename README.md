@@ -100,18 +100,19 @@ Anthropic uses a variety of technologies in building their offerings to customer
 
 ## Landscape
 
+### Fields of research and trends
+
 * What field is the company in?
 Appears to be a generalist but research some specifics further
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 LLM models
 
-* What are the other major companies in this field?
+### Competitors
 
-Anthropic provides a family of LLMs (Large Language Models) as a competitor to 
-OpenAI's ChatGPT
-Google's Gemini
-
+Anthropics key competitors include other large players on the Large Language Models (LLMs) field and include primarily:
+1. OpenAI's ChatGPT
+2. Google's Gemini & Bard
 
 ## Results
 
