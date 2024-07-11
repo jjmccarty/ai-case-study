@@ -66,18 +66,36 @@ Factorial Funds[31]
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
+We believe AI will have a vast impact on the world. Anthropic is dedicated to building systems that people can rely on and generating research about the opportunities and risks of AI.
+
+https://www.anthropic.com/company
+
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
+https://www.anthropic.com/customers
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Anthropic's goal is to build reliable, interpretable, and steerable AI systems. One of their AI systems, Claude, is a group of models that includes Haiku, Sonnet, and Opus. Claude is multimodal, meaning it can process more than text inputs, and can also process multiple images in one request. Claude 3 Opus, a newer version of Claude, has outperformed other leading chatbots on benchmark tests and is particularly useful for analyzing scientific data, generating computer code, and solving mathematical problems. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+Anthropic, an artificial intelligence (AI) startup, uses a variety of technologies to develop and train its AI systems:
+AWS Trainium and AWS Inferentia chips
+These low-cost, high-performance compute chips are used to develop and train Anthropic's foundation models.
+Google Kubernetes Engine
+This technology is used to run inference for Anthropic's AI system, Claude.
+Google TPU v5e chips
+These chips are used to train Anthropic's generative AI models.
+Dictionary learning
+This compute-intensive technique is used to identify patterns of neural activations, or features, in generative pretrained transformers. For example, Anthropic used dictionary learning to identify millions of features in Claude, including one associated with the Golden Gate Bridge.
 
 ## Landscape
 
 * What field is the company in?
+Appears to be a generalist but research some specifics further
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+LLM models
 
 * What are the other major companies in this field?
 
@@ -89,10 +107,20 @@ Google's Gemini
 ## Results
 
 * What has been the business impact of this company so far?
+Talk about ethics vs. competitors and their business status
+
+https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy
+https://www.anthropic.com/news/evaluate-prompts
+https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks
+https://www.anthropic.com/news/child-safety-principles
+
+
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+https://medium.com/@AhmedF/anthropics-claude-3-beats-gpt-4-across-main-metrics-feb72963564a
 
 * How is your company performing relative to competitors in the same field?
+https://time.com/6983420/anthropic-structure-openai-incentives/
 
 ## Recommendations
 
