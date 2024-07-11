@@ -54,11 +54,29 @@ The following firms list Anthropic as investements with no disclosed amount:
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
-We believe AI will have a vast impact on the world. Anthropic is dedicated to building systems that people can rely on and generating research about the opportunities and risks of AI.
+### What problem is Anthropic established to solve?
 
-https://www.anthropic.com/company
+Anthropic's stated mission is to ensure that AI benefits people and society as a whole.  The company isn't attempting to solve a specific AI problem or business problem, but rather identify how we can responsibly advance and adopt AI for the overall benefit of society.
 
+Anthropic was set up by its founders as a [public-benefit company](https://en.wikipedia.org/wiki/Benefit_corporation) in support of its mission.  This differentiates the company from its competetitors.  While the intent is to be a profitable venture, the public-benefit designation allows Anthropic to act in the benefit for the company versus the benefit of the investors and shareholders.  Establishing this type of corporate entity allows Anthropic to meet its goal of having a positive societal impact with AI over share holder profits while still maintaining a viable company.
+
+Anthropic is attempting to solve ethics, safety and research issues within AI as an industry rather than a specific business problem.  This further pushes the industry and challenges traditional C corporations. 
+
+### Who are Anthropic's customers?
+
+With some exceptions (such as code suggestions) Anthropic is not providing business specific AI offerings.  Rather the company is providing a set of Large Language Models (LLMs) as a foundational platform that businesses can utilize to develop AI solutions to their own unique needs.  This allows Anthropic to have a wide variety of customers across industries including (Not comprehensive) [^7]:
+
+1. GitLab (Technology)
+2. Steno (Legal Services)
+3. Gamma (Presentation/Asset Creation Services)
+4. Jumpcut (FIlm Industry)
+5. Asana (Software Services)
+6. Bridgewater (Investment Services)
+7. LexisNexis (Legal Services)
+8. Lonely Planet (Travel services)
+9. Slack (Communication & Collaboration Services)
+
+Anthropic further serves their customer base through partnership and alliances with services providers such as Amazon Web Services and implementation/consulting partners like [Accenture](www.accenture.com) and [BCG](https://www.bcg.com/) for customer support. 
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 https://www.anthropic.com/customers
@@ -66,17 +84,19 @@ https://www.anthropic.com/customers
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 Anthropic's goal is to build reliable, interpretable, and steerable AI systems. One of their AI systems, Claude, is a group of models that includes Haiku, Sonnet, and Opus. Claude is multimodal, meaning it can process more than text inputs, and can also process multiple images in one request. Claude 3 Opus, a newer version of Claude, has outperformed other leading chatbots on benchmark tests and is particularly useful for analyzing scientific data, generating computer code, and solving mathematical problems. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+### Anthropic Technologies
 
-Anthropic, an artificial intelligence (AI) startup, uses a variety of technologies to develop and train its AI systems:
-AWS Trainium and AWS Inferentia chips
-These low-cost, high-performance compute chips are used to develop and train Anthropic's foundation models.
-Google Kubernetes Engine
-This technology is used to run inference for Anthropic's AI system, Claude.
-Google TPU v5e chips
-These chips are used to train Anthropic's generative AI models.
-Dictionary learning
-This compute-intensive technique is used to identify patterns of neural activations, or features, in generative pretrained transformers. For example, Anthropic used dictionary learning to identify millions of features in Claude, including one associated with the Golden Gate Bridge.
+Anthropic provides a foundational AI capability called Claude capable of advanced reasoning, vision analysis, code generation and multilingual processing.  Claude allows for sub system use designed for functional vs. cost based needs for customers, including [^8]
+
+1. Claude - Haiku:  A fast low cost model for lightweight workloads
+2. Claude - Sonnet: Balances cost, efficiency and speed for high throughput tasks
+3. Claude - Opus: Model handling complex analysis and higher order math and coding add a greater price point. 
+
+Anthropic uses a variety of technologies in building their offerings to customers.  Many technologies are established as part of investment terms as previously mentioned in the funding analysis.  Some of these include:
+
+1. AWS Trainium and AWS Inferentia chips utilized to develop and train models.
+2. Google Kubernetes Engine to run inference for Claude
+3. Google TPU v5e chips to train generative AI models
 
 ## Landscape
 
@@ -132,3 +152,5 @@ https://time.com/6983420/anthropic-structure-openai-incentives/
 4. [^4]: [Amazon investment in Anthropic](https://www.aboutamazon.com/news/company-news/amazon-anthropic-ai-investment)
 5. [^5]: [Goolge investment in Anthropic](https://www.wsj.com/tech/ai/google-commits-2-billion-in-funding-to-ai-startup-anthropic-db4d4c50)
 6. [^6]: [Menlo investment in Anthropic](https://menlovc.com/perspective/our-investment-in-anthropic-the-foundation-layer-for-generative-ai/)
+7. [^7]: [Anthropic customers](https://www.anthropic.com/customers)
+8. [^8]: [Anthropic offerings](https://www.anthropic.com/claude)
