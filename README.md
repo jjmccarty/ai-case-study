@@ -39,32 +39,18 @@ In recent interviews with [AI Businesss](https://aibusiness.com/verticals/eleven
 
 ### Anthropic Funding
 
-* How is the company funded? How much funding have they received?
+Anthropic funding comes from a variety of sources including investment firms and large organizations such as AWS and Google.  Over the last year the company has secured over $7.3 billion in funding.  With the commitments of companies such as AWS and Google the funding does come with stipulations as part of the partnership including the commitment by Anthropic to utilize assets such as cloud computing resources and chips by the funding entities.
 
-funding led by
-Jaan Taillinn - cofounder of Skype
-James McClave - Infotech
-Dustin Moskovitz - Co-founder at Facebook, Center for Emerging Risk Research
-Eric Schmidt - former Google CEO
+The following companies and firms have publicly invested in Anthropic:
 
-As of February 2024, the artificial intelligence (AI) startup Anthropic had raised $7.3 billion in funding over the previous year. Some of the notable funding deals include:
-Amazon
-In March 2024, Amazon Web Services (AWS) completed its $4 billion investment in Anthropic. This was the second tranche of funding after an initial $1.25 billion investment in September 2023. As part of the collaboration, Anthropic uses Amazon's custom chips to build and deploy AI software, and Amazon has added Anthropic's technology to its cloud business offerings.
-Google
-Google has invested multiple times in Anthropic, including $450 million in 2024, $300 million in late 2023, and up to $2 billion in October 2023. The $2 billion investment included a $500 million upfront cash infusion and an additional $1.5 billion to be invested over time.
-Menlo Ventures
-Menlo Ventures led a $750 million funding round for Anthropic in April and May 2023
+1. [Amazon Web Services](https://aws.amazon.com/) completed a $4 billion investment in Anthropic as of March 2024.  The partnership involves Anthropics's use of Amazon's chips to build it's AI software and Amazon has added Anthropic to its cloud services. [^4]
+2. [Google](www.google.com) has invested $2+ billion over multiple years in Anthropic [^5]
+3. [Menlo Ventures](https://menlovc.com/) completed a $750 million funding for Anthropic in 2023 [^6]
+The following firms list Anthropic as investements with no disclosed amount:
+1. [Wisdon Ventures](https://www.wisdomventuresfund.com/portfolio)
+2. [Ripple Impact Investments](https://www.rippleimpactinvestments.com/)
+3. [Factorial Funds](https://www.factorialfunds.com/portfolio)
 
-https://awsinsider.net/Articles/2024/03/27/AWS-Claude-AI-Maker-Anthropic.aspx#:~:text=Amazon%20Web%20Services%20has%20ponied,in%20generative%20AI%20company%20Anthropic.
-
-Also see wikipedia link for more detailed info on funding
-
-Amazon.com – $4B[12]
-Google – $2B[12]
-Menlo Ventures – $750M[28]
-Wisdom Ventures[29]
-Ripple Impact Investments[30]
-Factorial Funds[31]
 
 ## Business Activities
 
@@ -142,3 +128,7 @@ https://time.com/6983420/anthropic-structure-openai-incentives/
 2. [^2]: [Anthropic Mission Statement](https://www.anthropic.com/company)
 
 3. [^3]: [Anthropic CEO quote on purpose of Anthropic](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m)
+
+4. [^4]: [Amazon investment in Anthropic](https://www.aboutamazon.com/news/company-news/amazon-anthropic-ai-investment)
+5. [^5]: [Goolge investment in Anthropic](https://www.wsj.com/tech/ai/google-commits-2-billion-in-funding-to-ai-startup-anthropic-db4d4c50)
+6. [^6]: [Menlo investment in Anthropic](https://menlovc.com/perspective/our-investment-in-anthropic-the-foundation-layer-for-generative-ai/)
