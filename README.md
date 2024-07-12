@@ -26,11 +26,11 @@
 
 * Anthropic was founded as a result of directional differences between Anthropics founders (Dario and Daniel Amodei) and OpenAI leadership.   
 
-Anthropic provides a very clear mission statement [^2]
+Anthropic provides a very clear mission statement (from the company website) [^2]
 
 >Anthropic exists for our mission: to ensure transformative AI helps people and society flourish. Progress this decade may be rapid, and we expect increasingly capable systems to pose novel challenges. We pursue our mission by building frontier systems, studying their behaviors, working to responsibly deploy them, and regularly sharing our safety insights. We collaborate with other projects and stakeholders seeking a similar outcome.
 
-In recent interviews with [AI Businesss](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m) regarding the startup Dario Amodei stated [^3][3]
+In recent interviews with [AI Businesss](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m) regarding the startup Dario Amodei stated [^3]
 
 >“Anthropic’s goal is to make the fundamental research advances that will let us build more capable, general, and reliable AI systems, then deploy these systems in a way that benefits people,” 
 
