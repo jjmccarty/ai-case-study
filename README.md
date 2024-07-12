@@ -116,21 +116,37 @@ Anthropics key competitors include other large players on the Large Language Mod
 
 ## Results
 
-* What has been the business impact of this company so far?
-Talk about ethics vs. competitors and their business status
+### Business Impacts
 
-https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy
-https://www.anthropic.com/news/evaluate-prompts
-https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks
-https://www.anthropic.com/news/child-safety-principles
+While Anthropic does focus its business on the development and advancement of LLMs like its competitors it attempts to differentiate itself through a purposeful focus on transparency, safety and the ethics of AI.  This has begun to push the industry trends in this area across multiple organizations. 
 
+Several example areas of responsible AI focus for the company that may be of interest include (but are not limited to):
 
+#### [Anthropics Responsible Scaling Policy (RSP)](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy) [^9]
+
+* This policy provides guidelines for managing and assessing an AI models risks as the capabilities of AI continue to advance. 
+* The RSP provides a framework of 4 AI Saftey Levels to assessing the potential of risk and is loosely based on governmental biosafety level standards for hazardous biological materials.  Essentially, the higher the risk the more stringent the safety standards. 
+*  This RSP is a clear commitment by Anthropic to its alignment with the [voluntary commitment made by several US companies](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/) to manage the risks associated with AI. 
+
+#### [Anthropic Safety By Design Principals](https://www.anthropic.com/news/child-safety-principles) [^10]
+
+* Anthropic is committed to the implementation of strict child safety measures in all aspects of AI technology.  As part of this, Anthropic has aligned with [Thorn](https://thorn.org/) which is a non-profit dedicated to mitigating the risks of AI to children.  
+* With its commitment to the safety of AI systems Anthropic has implemented several policies for child protection, extensive red teaming and partnerships with industry experts to ensure the safety of all AI models.  Any form of material that exploits children is strictly forbidden and reported to appropriate agencies. 
+
+#### [Evaluation of Developer Prompts](https://www.anthropic.com/news/evaluate-prompts) [^11]
+
+* While not a strict differentiator for Anthropic, the introduction of developer prompts allows for the increased effeciency of development work.  This has become a necessary feature of many coding tools and environments and has allowed Anthropic to keep up with industry standards. 
+* This feature allows for streamlined development, test case and test suite generation.
+
+### Core Metrics & Comparisons
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 https://medium.com/@AhmedF/anthropics-claude-3-beats-gpt-4-across-main-metrics-feb72963564a
 
 * How is your company performing relative to competitors in the same field?
 https://time.com/6983420/anthropic-structure-openai-incentives/
+
+![Anthropic Claude Performance](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4zrzovbb%2Fwebsite%2Fcf2c754458e9102b7334731fb18a965bfeb7ad08-2200x1894.png&w=3840&q=75)
 
 ## Recommendations
 
@@ -142,7 +158,11 @@ https://time.com/6983420/anthropic-structure-openai-incentives/
 
 * Why are these technologies appropriate for your solution?
 
-### Footnotes and citations
+
+
+
+
+## Footnotes and citations
 
 1. [^1]: [Open AI Employees Establish Anthropic](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m#close-modal)
 
@@ -155,3 +175,6 @@ https://time.com/6983420/anthropic-structure-openai-incentives/
 6. [^6]: [Menlo investment in Anthropic](https://menlovc.com/perspective/our-investment-in-anthropic-the-foundation-layer-for-generative-ai/)
 7. [^7]: [Anthropic customers](https://www.anthropic.com/customers)
 8. [^8]: [Anthropic offerings](https://www.anthropic.com/claude)
+9. [^9]:[Anthropics Responsible Scaling Policy (RSP)](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy) 
+10. [^10]:[Anthropic Safety By Design Principals](https://www.anthropic.com/news/child-safety-principles) 
+11. [^11]:[Evaluation of Developer Prompts](https://www.anthropic.com/news/evaluate-prompts)
