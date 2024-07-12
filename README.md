@@ -174,7 +174,7 @@ In it's most recent performance analysis Anthropic benchmarked it services for t
 ## Recommendations
 With Anthropics focus on providing a societal benefit over a shareholder profit motive it may wish to consider a future focus on models that align with that stated strategy.
 
-Options could includ work in 
+Options could include work in 
 * Health Sciences & Medicine
 * Pharmaceutical Advancements
 * Environmental and Earth Sciences
