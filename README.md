@@ -66,15 +66,15 @@ Anthropic is attempting to solve ethics, safety and research issues within AI as
 
 With some exceptions (such as code suggestions) Anthropic is not providing business specific AI offerings.  Rather the company is providing a set of Large Language Models (LLMs) as a foundational platform that businesses can utilize to develop AI solutions to their own unique needs.  This allows Anthropic to have a wide variety of customers across industries including (Not comprehensive) [^7]:
 
-1. GitLab (Technology)
-2. Steno (Legal Services)
-3. Gamma (Presentation/Asset Creation Services)
-4. Jumpcut (FIlm Industry)
-5. Asana (Software Services)
-6. Bridgewater (Investment Services)
-7. LexisNexis (Legal Services)
-8. Lonely Planet (Travel services)
-9. Slack (Communication & Collaboration Services)
+1. [GitLab](https://about.gitlab.com/) (Technology)
+2. [Steno](https://steno.com/) (Legal Services)
+3. [Gamma](https://gamma.app/) (Presentation/Asset Creation Services)
+4. [Jumpcut](https://jumpcut.com/) (Film Industry/Training)
+5. [Asana](https://asana.com/) (Software Services)
+6. [Bridgewater](https://www.bridgewater.com/) (Investment Services)
+7. [LexisNexis](https://www.lexisnexis.com/en-us/gateway.page) (Legal Services)
+8. [Lonely Planet](https://www.lonelyplanet.com/) (Travel services)
+9. [Slack](https://slack.com/) (Communication & Collaboration Services)
 
 Anthropic further serves their customer base through partnership and alliances with services providers such as Amazon Web Services and implementation/consulting partners like [Accenture](www.accenture.com) and [BCG](https://www.bcg.com/) for customer support. 
 
@@ -102,11 +102,17 @@ Anthropic uses a variety of technologies in building their offerings to customer
 
 ### Fields of research and trends
 
-* What field is the company in?
-Appears to be a generalist but research some specifics further
+Anthropic is most well known for overall AI advancement of Large Language Models (LLMs) with a human like learning process.  This work is coupled with a focus on the safety, security and ethics of such models.  The company employs a variety of individuals across several disciplines to achieve this goal including experts in machine learning, neuroscience and cognitive sciences.  
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-LLM models
+The [AICamp blog](https://aicamp.so/blog/anthropic-vs-openai-a-comprehensive-comparison) provides a comprehensive overview of the foundational concepts behind Claude and a comparison of Claude vs. its OpenAI competitor. [^15]
+
+>Anthropic has a smart computer program called Claude. Here’s what you need to know about it:
+> * Claude is made to chat with people. It’s really good at having natural conversations.
+> * It uses a mix of smart tech to remember what you talked about before and keep the chat going.
+> * The information Claude learned from was carefully picked to be good and fair. This means it tries to avoid saying anything wrong or hurtful.
+> * Claude is really good at chatting while making sure it stays safe and follows rules set by Anthropic.
+> * Anthropic made sure Claude can explain why it says certain things, which helps people trust it more.
+> * Overall, Claude is all about chatting safely and smartly.
 
 ### Competitors
 
@@ -138,28 +144,48 @@ Several example areas of responsible AI focus for the company that may be of int
 * While not a strict differentiator for Anthropic, the introduction of developer prompts allows for the increased effeciency of development work.  This has become a necessary feature of many coding tools and environments and has allowed Anthropic to keep up with industry standards. 
 * This feature allows for streamlined development, test case and test suite generation.
 
+Anthropics contributions have not however, just been limited to its advancements in safety, security and ethics.  The company has introduced through its partnerships additional products and capabilities for individuals and businesses. Such as:
+
+#### [Anthropic Artifacts](https://www.pymnts.com/artificial-intelligence-2/2024/anthropics-artifacts-looks-to-boost-human-ai-collaboration-in-business/) [^16]
+
+* Artifacts is a feature that integrates with a company's Claude chatbot in a manner allowing users and AI realtime collaboration.  This has the potential to allow for fast modification to workflows and processes within an organization.  
+* This has potential implications to allow for real time assistance such as  development assistance, real time writing aids, project management assitance designed to increase human productivity in a collaborative manner with AI.
+
+#### [Claude iPhone App](https://www.cnbc.com/2024/05/01/anthropic-iphone-ai-app-business-plan-to-compete-with-openai-announced.html) [^17]
+
+* Anthropic in collaboration with Amazon has released its first rendition of Claude as an iPhone app.  
+* This effort was born out of customer feedback requesting a more streamlined dedicated enterprise app option as many customers employees were already using Claude within their companies. 
+* The application offers access to all of Anthropic's models with various pricing options for flexibility. 
+* An Android version is also under development.
+
+
 ### Core Metrics & Comparisons
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-https://medium.com/@AhmedF/anthropics-claude-3-beats-gpt-4-across-main-metrics-feb72963564a
+The evaluation of Anthropic against its competitors can be viewed across a variety of metrics including financial funding and performance metrics.  
 
-* How is your company performing relative to competitors in the same field?
-https://time.com/6983420/anthropic-structure-openai-incentives/
+#### Financial comparison
+When compared to competitor funding Anthropic is not at the head of the pack.  While recent funding from investors such as Amazon and Google have been impressive it cannot compare to the funding for OpenAI by Microsoft, who owns approximately 49% of OpenAI equity and has integrated the platform into many Microsoft products [^12].  Through a variety of funding sources OpenAI is working toward funding valued at $100 Billion[^13].  Anthropic falls significantly shorter at it's $7 billion valuation as noted in the funding section of this case study. 
+
+However, it does appear that Anthropic has worked toward investment and alignment with Microsoft competitors such as AWS and Google, with AWS offering Anthropic's services as part of its own cloud service offereings.  
+
+Despite Anthropics more limited funding, the company has taken steps to learn from potential flaws in the structure of competitor companies.  Late in 2023 OpenAI's  CEO was fired by the board due to a lack of confidence.  While this did not last as a result of wide spread backlash from large investors and the OpenAI employee base the disruption caused ripples across the industry.  Anthropics unique corporate setup as a public benefit company would provide an advantage in a similar case as the company's board is bound to benefit trust as well as shareholders. [^14] 
+
+#### Performance comparison
+From a technical performance perspective it is clear that Anthroptic has dedicated some focus toward ensuring the efficiency and effectiveness of its flagship product, Claude against several of its largest competitors. 
+
+In it's most recent performance analysis Anthropic benchmarked it services for the LLM Claude vs. 3.x against several common competitor systems.  The image referenced below from Anthropics public website demostrates the performance achieved in comparison to competitors. 
 
 ![Anthropic Claude Performance](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4zrzovbb%2Fwebsite%2Fcf2c754458e9102b7334731fb18a965bfeb7ad08-2200x1894.png&w=3840&q=75)
 
 ## Recommendations
+With Anthropics focus on providing a societal benefit over a shareholder profit motive it may wish to consider a future focus on models that align with that stated strategy.
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+Options could includ work in 
+* Health Sciences & Medicine
+* Pharmaceutical Advancements
+* Environmental and Earth Sciences
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
-
-
-
+Their current alignment and partnership with Amazon Web Services could provide an ideal technical foundation for building services and releasing those options to the wider community of companies.  AWS currently maintains over 30% of the cloud infrastructure marketshare [^18] allowing Anthropic to reach a wide audience of potential users. 
 
 
 ## Footnotes and citations
@@ -178,3 +204,11 @@ https://time.com/6983420/anthropic-structure-openai-incentives/
 9. [^9]:[Anthropics Responsible Scaling Policy (RSP)](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy) 
 10. [^10]:[Anthropic Safety By Design Principals](https://www.anthropic.com/news/child-safety-principles) 
 11. [^11]:[Evaluation of Developer Prompts](https://www.anthropic.com/news/evaluate-prompts)
+12. [^12]:[Microsoft and OpenAI Partnership](https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/)
+13. [^13]: [OpenAI funding valuation](https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation)
+14. [^14]: [How Anthropic is different from OpenAI as a benefit trust](https://time.com/6983420/anthropic-structure-openai-incentives/
+)
+15. [^15]: [Claude vs. OpenAI Comparison](https://aicamp.so/blog/anthropic-vs-openai-a-comprehensive-comparison)
+16. [^16]: [Anthropic Artifacts](https://www.pymnts.com/artificial-intelligence-2/2024/anthropics-artifacts-looks-to-boost-human-ai-collaboration-in-business/) 
+17. [^17]: [Claude iPhone App](https://www.cnbc.com/2024/05/01/anthropic-iphone-ai-app-business-plan-to-compete-with-openai-announced.html) 
+18. [^18] [AWS Marketshare](https://www.statista.com/statistics/967365/worldwide-cloud-infrastructure-services-market-share-vendor/)
