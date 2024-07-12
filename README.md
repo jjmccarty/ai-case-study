@@ -36,7 +36,7 @@ In recent interviews with [AI Businesss](https://aibusiness.com/verticals/eleven
 
 ### Anthropic Funding
 
-Anthropic funding comes from a variety of sources including investment firms and large organizations such as AWS and Google.  Over the last year the company has secured over $7.3 billion in funding.  With the commitments of companies such as AWS and Google the funding does come with stipulations as part of the partnership including the commitment by Anthropic to utilize assets such as cloud computing resources and chips by the funding entities.
+Anthropic funding comes from a variety of sources including investment firms and large organizations such as AWS and Google.  Over the last year the company has secured over **$7.3 billion** in funding.  With the commitments of companies such as AWS and Google the funding does come with stipulations as part of the partnership including the commitment by Anthropic to utilize assets such as cloud computing resources and chips by the funding entities.
 
 The following companies and firms have publicly invested in Anthropic:
 
@@ -54,7 +54,7 @@ The following companies and firms have publicly invested in Anthropic:
 
 Anthropic's stated mission is to ensure that AI benefits people and society as a whole.  The company isn't attempting to solve a specific AI problem or business problem, but rather identify how we can responsibly advance and adopt AI for the overall benefit of society.
 
-Anthropic was set up by its founders as a [public-benefit company](https://en.wikipedia.org/wiki/Benefit_corporation) in support of its mission.  This differentiates the company from its competetitors.  While the intent is to be a profitable venture, the public-benefit designation allows Anthropic to act in the benefit for the company versus the benefit of the investors and shareholders.  Establishing this type of corporate entity allows Anthropic to meet its goal of having a positive societal impact with AI over share holder profits while still maintaining a viable company.
+Anthropic was set up by its founders as a [public-benefit company](https://en.wikipedia.org/wiki/Benefit_corporation) in support of its mission.  This differentiates the company from its competetitors.  While the intent is to be a profitable venture, the public-benefit designation allows Anthropic to *act in the benefit for the company versus the benefit of the investors and shareholders*.  Establishing this type of corporate entity allows Anthropic to meet its goal of having a positive societal impact with AI over share holder profits while still maintaining a viable company.
 
 Anthropic is attempting to solve ethics, safety and research issues within AI as an industry rather than a specific business problem.  This further pushes the industry and challenges traditional C corporations. 
 
@@ -74,7 +74,7 @@ With some exceptions (such as code suggestions) Anthropic is not providing busin
 
 Anthropic further serves their customer base through partnership and alliances with services providers such as Amazon Web Services and implementation/consulting partners like [Accenture](www.accenture.com) and [BCG](https://www.bcg.com/) for customer support. 
 
-Anthropic's goal is to build reliable, interpretable, and steerable AI systems. One of their AI systems, Claude, is a group of models that includes Haiku, Sonnet, and Opus. Claude is multimodal, meaning it can process more than text inputs, and can also process multiple images in one request. Claude 3 Opus, a newer version of Claude, has outperformed other leading chatbots on benchmark tests and is particularly useful for analyzing scientific data, generating computer code, and solving mathematical problems. 
+Anthropic's goal is to build reliable, interpretable, and steerable AI systems. One of their AI systems, Claude, is a group of models that includes Haiku, Sonnet, and Opus. Claude is capable of processing text inputs and multiple images in one request. Claude 3 Opus, a newer version of Claude, has outperformed other competitor chatbots on benchmark tests and is particularly useful for analyzing scientific data, generating computer code, and solving mathematical problems. 
 
 ### Anthropic Technologies
 
@@ -98,6 +98,8 @@ Anthropic is most well known for overall AI advancement of Large Language Models
 
 The [AICamp blog](https://aicamp.so/blog/anthropic-vs-openai-a-comprehensive-comparison) provides a comprehensive overview of the foundational concepts behind Claude and a comparison of Claude vs. its OpenAI competitor. [^15]
 
+The following include a summary of Anthropics product from the blog.
+
 >Anthropic has a smart computer program called Claude. Here’s what you need to know about it:
 > * Claude is made to chat with people. It’s really good at having natural conversations.
 > * It uses a mix of smart tech to remember what you talked about before and keep the chat going.
@@ -110,7 +112,7 @@ The [AICamp blog](https://aicamp.so/blog/anthropic-vs-openai-a-comprehensive-com
 
 Anthropics key competitors include other large players on the Large Language Models (LLMs) field and include primarily:
 1. OpenAI's ChatGPT
-2. Google's Gemini & Bard
+2. Google's Gemini
 
 ## Results
 
@@ -124,7 +126,7 @@ Several example areas of responsible AI focus for the company that may be of int
 
 * This policy provides guidelines for managing and assessing an AI models risks as the capabilities of AI continue to advance. 
 * The RSP provides a framework of 4 AI Saftey Levels to assessing the potential of risk and is loosely based on governmental biosafety level standards for hazardous biological materials.  Essentially, the higher the risk the more stringent the safety standards. 
-*  This RSP is a clear commitment by Anthropic to its alignment with the [voluntary commitment made by several US companies](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/) to manage the risks associated with AI. 
+*  This RSP is a clear commitment by Anthropic to its alignment with the [*voluntary* commitment made by several US companies](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/) to manage the risks associated with AI. 
 
 #### [Anthropic Safety By Design Principals](https://www.anthropic.com/news/child-safety-principles) [^10]
 
