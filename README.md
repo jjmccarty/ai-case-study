@@ -7,7 +7,7 @@
 
 ### Anthropic founding and mission statements
 
-* Anthropic was founded and incorporated in 2021 by several former OpenAI executives and employees with including [1][1]
+* Anthropic was founded and incorporated in 2021 by several former OpenAI executives and employees with including [^1][1]
 1. Dario Amodei - Co-founder and CEO
 2. Daniela Amodei - Co-Founder and President 
 3. Jason Clinton - CISO
