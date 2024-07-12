@@ -1,4 +1,5 @@
 # SMU AI Bootcamp Case Study
+(Repository Location: https://github.com/jjmccarty/ai-case-study.git)
 
 ## Overview and Origin for Anthropic
 
@@ -29,7 +30,7 @@
 
 * Anthropic was founded as a result of directional differences between Anthropics founders (Dario and Daniel Amodei) and OpenAI leadership.   
 
-Anthropic provides a very clear mission statiement [^2]:
+Anthropic provides a very clear mission statement [^2]:
 
 >Anthropic exists for our mission: to ensure transformative AI helps people and society flourish. Progress this decade may be rapid, and we expect increasingly capable systems to pose novel challenges. We pursue our mission by building frontier systems, studying their behaviors, working to responsibly deploy them, and regularly sharing our safety insights. We collaborate with other projects and stakeholders seeking a similar outcome.
 
@@ -46,7 +47,6 @@ The following companies and firms have publicly invested in Anthropic:
 1. [Amazon Web Services](https://aws.amazon.com/) completed a $4 billion investment in Anthropic as of March 2024.  The partnership involves Anthropics's use of Amazon's chips to build it's AI software and Amazon has added Anthropic to its cloud services. [^4]
 2. [Google](www.google.com) has invested $2+ billion over multiple years in Anthropic [^5]
 3. [Menlo Ventures](https://menlovc.com/) completed a $750 million funding for Anthropic in 2023 [^6]
-The following firms list Anthropic as investements with no disclosed amount:
 1. [Wisdon Ventures](https://www.wisdomventuresfund.com/portfolio)
 2. [Ripple Impact Investments](https://www.rippleimpactinvestments.com/)
 3. [Factorial Funds](https://www.factorialfunds.com/portfolio)
@@ -78,10 +78,6 @@ With some exceptions (such as code suggestions) Anthropic is not providing busin
 
 Anthropic further serves their customer base through partnership and alliances with services providers such as Amazon Web Services and implementation/consulting partners like [Accenture](www.accenture.com) and [BCG](https://www.bcg.com/) for customer support. 
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-https://www.anthropic.com/customers
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 Anthropic's goal is to build reliable, interpretable, and steerable AI systems. One of their AI systems, Claude, is a group of models that includes Haiku, Sonnet, and Opus. Claude is multimodal, meaning it can process more than text inputs, and can also process multiple images in one request. Claude 3 Opus, a newer version of Claude, has outperformed other leading chatbots on benchmark tests and is particularly useful for analyzing scientific data, generating computer code, and solving mathematical problems. 
 
 ### Anthropic Technologies
